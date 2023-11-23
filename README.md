@@ -1,5 +1,5 @@
 # Advance-Statistics
-In this project, a business problem is solved with the help of Advance Statistics tools. Skills and Tools Probability, Probability Distribution, Hypothesis Testing and ANOVA
+In this project, a business problem is solved with the help of Advance Statistics tools. Skills and Tools used includes Probability, Probability Distribution, Hypothesis Testing and ANOVA
 
 ## Skills & Tools Covered
 - Probability
